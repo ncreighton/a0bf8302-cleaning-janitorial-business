@@ -1,2 +1,28 @@
-# a0bf8302-cleaning-janitorial-business
-Stop guessing which clients are actually draining your profits and start tracking the metrics that matter most for your cleaning business.  This dashboard turns scattered data into a clear view of your janitorial business health. It automates KPI calculations so you can instantly see revenue per client, employee utilization, and cost per job—no spr
+# Cleaning & Janitorial Business Dashboard and KPI Tracker Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/14AaEXbHh8Is6xy8nGd0j3Y)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/14AaEXbHh8Is6xy8nGd0j3Y)
+
